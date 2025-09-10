@@ -94,7 +94,7 @@ dependencies {
     implementation("androidx.activity:activity-ktx:1.10.0")
     implementation("androidx.fragment:fragment-ktx:1.8.9")
     implementation("androidx.navigation:navigation-fragment-ktx:2.9.3")
-    implementation("androidx.navigation:navigation-ui-ktx:2.9.2")
+    implementation("androidx.navigation:navigation-ui-ktx:2.9.4")
     implementation("androidx.preference:preference-ktx:1.2.1")
     implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.1.0")
 
